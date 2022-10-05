@@ -7,7 +7,7 @@
 <title><% out.println("Unidade 1"); %></title>
 </head>
 <body>
-	<form action="">
+	<form action="estudante-response.jsp" method="post">
 		Nome: <input type="text" name="nome"/>
 		<br/><br/>
 		RGM: <input type="text" name="rgm"/>
